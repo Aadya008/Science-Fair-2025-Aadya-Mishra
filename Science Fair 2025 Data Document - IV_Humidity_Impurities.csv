@@ -1,0 +1,11 @@
+Trial #,Senario,PM2.5,PM1.0,PM10,HCHO,TVOC,AQI,Temperature,Humidity
+1,Candle with Steaming Water for a change in HUMIDITY AND IMPURITIES,376,234,427,0.804,5,6,21.5,84
+2,Candle with Steaming Water for a change in HUMIDITY AND IMPURITIES,381,233,438,0.819,5,6,21.9,91
+3,Candle with Steaming Water for a change in HUMIDITY AND IMPURITIES,208,131,231,0.674,5,6,25,96
+4,Incense with Steaming Water for a change in HUMIDITY AND IMPURITIES,999,344,999,0.935,5,6,26.5,61
+5,Incense with Steaming Water for a change in HUMIDITY AND IMPURITIES,999,424,999,1,5,6,26.6,66
+6,Incense with Steaming Water for a change in HUMIDITY AND IMPURITIES,999,424,999,1,5,6,27,62
+7,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,981,302,999,0.49,3.6,6,26.9,47
+8,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,989,303,999,0.5,3.714,6,26.9,48
+9,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,979,300,999,0.552,4.156,6,27.1,56
+10,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,973,302,999,0.554,4.174,6,27.1,57

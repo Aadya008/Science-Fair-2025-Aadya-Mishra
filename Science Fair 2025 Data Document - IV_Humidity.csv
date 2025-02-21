@@ -1,0 +1,11 @@
+Trial #,Senario,PM2.5,PM1.0,PM10,HCHO,TVOC,AQI,Temperature,Humidity
+1,"Hot, Steaming Water relasing for change in HUMIDITY",3,2,3,0.0333,0.224,1,26.3,83
+2,"Hot, Steaming Water relasing for change in HUMIDITY",3,2,4,0.02,0.133,1,27.1,80
+3,"Hot, Steaming Water relasing for change in HUMIDITY",3,3,4,0.02,0.138,1,27.2,82
+4,"Hot, Steaming Water relasing for change in HUMIDITY",3,2,4,0.021,0.141,1,27.2,83
+5,"Hot, Steaming Water relasing for change in HUMIDITY",3,3,3,0.021,0.142,1,27.3,84
+6,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,5,0.02,0.137,1,27.4,85
+7,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,5,0.0196,0.133,1,27.4,86
+8,"Hot, Steaming Water relasing for change in HUMIDITY",4,2,4,0.019,0.13,1,27.5,86
+9,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,4,0.018,0.126,1,27.6,87
+10,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,5,0.018,0.12,1,27.6,87

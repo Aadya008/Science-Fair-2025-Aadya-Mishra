@@ -1,0 +1,11 @@
+Trial #,Senario,PM2.5,PM1.0,PM10,HCHO,TVOC,AQI,Temperature,Humidity
+1,Cold Ice added for change in TEMPERATURE,35,24,40,0.011,0.023,1,23.5,28
+2,Cold Ice added for change in TEMPERATURE,34,24,39,0.01,0.017,1,23.5,29
+3,Cold Ice added for change in TEMPERATURE,33,24,36,0.008,0.02,1,23.5,29
+4,Cold Ice added for change in TEMPERATURE,34,25,37,0.012,0.019,1,23.4,29
+5,Cold Ice added for change in TEMPERATURE,33,24,37,0.11,0.022,1,23.3,29
+6,Cold Ice added for change in TEMPERATURE,33,24,39,0.008,0.023,1,23.3,29
+7,Cold Ice added for change in TEMPERATURE,33,23,36,0.007,0.02,1,23.3,29
+8,Cold Ice added for change in TEMPERATURE,32,23,36,0.012,0.02,1,23.2,29
+9,Cold Ice added for change in TEMPERATURE,33,24,38,0.006,0.022,1,23.2,29
+10,Cold Ice added for change in TEMPERATURE,30,22,35,0.006,0.0205,1,23.8,30

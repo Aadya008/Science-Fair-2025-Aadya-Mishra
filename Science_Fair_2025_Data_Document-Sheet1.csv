@@ -1,0 +1,62 @@
+Trial #,Date,Time,Senario,PM2.5 (ug/m^3),PM1.0 (ug/m^3),PM10 (ug/m^3),HCHO (formaldehyde) (mg/m^3),TVOC (total volatile organic compounds) mg/m^3,AQI (category),Temperature (C),Humidity (%)
+CONTROL,2/2,4:17 PM,,2,1,3,0.007,0.015,1,27.7,39
+1,,,"Hot, Steaming Water relasing for change in HUMIDITY",3,2,3,0.0333,0.224,1,26.3,83
+2,,,"Hot, Steaming Water relasing for change in HUMIDITY",3,2,4,0.02,0.133,1,27.1,80
+3,,,"Hot, Steaming Water relasing for change in HUMIDITY",3,3,4,0.02,0.138,1,27.2,82
+4,,,"Hot, Steaming Water relasing for change in HUMIDITY",3,2,4,0.021,0.141,1,27.2,83
+5,,,"Hot, Steaming Water relasing for change in HUMIDITY",3,3,3,0.021,0.142,1,27.3,84
+6,,,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,5,0.2,0.137,1,27.4,85
+7,,,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,5,0.0196,0.133,1,27.4,86
+8,,,"Hot, Steaming Water relasing for change in HUMIDITY",4,2,4,0.019,0.13,1,27.5,86
+9,,,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,4,0.018,0.126,1,27.6,87
+10,,,"Hot, Steaming Water relasing for change in HUMIDITY",4,3,5,0.018,0.12,1,27.6,87
+11,,,Cold Ice added for change in TEMPERATURE,35,24,40,0.011,0.023,1,23.5,28
+12,,,Cold Ice added for change in TEMPERATURE,34,24,39,0.01,0.017,1,23.5,29
+13,,,Cold Ice added for change in TEMPERATURE,33,24,36,0.008,0.2,1,23.5,29
+14,,,Cold Ice added for change in TEMPERATURE,34,25,37,0.012,0.019,1,23.4,29
+15,,,Cold Ice added for change in TEMPERATURE,33,24,37,0.11,0.022,1,23.3,29
+16,,,Cold Ice added for change in TEMPERATURE,33,24,39,0.008,0.023,1,23.3,29
+17,,,Cold Ice added for change in TEMPERATURE,33,23,36,0.007,0.02,1,23.3,29
+18,,,Cold Ice added for change in TEMPERATURE,32,23,36,0.012,0.02,1,23.2,29
+19,,,Cold Ice added for change in TEMPERATURE,33,24,38,0.006,0.022,1,23.2,29
+20,,,Cold Ice added for change in TEMPERATURE,30,22,35,0.006,0.0205,1,23.8,30
+21,,,Candle added to add IMPURITIES,48,31,60,0.008,0.026,1,25.4,35
+22,,,Candle added to add IMPURITIES,39,26,47,0.005,0.019,1,25.8,45
+23,,,Candle added to add IMPURITIES,34,34,40,0.006,0.046,1,26.2,51
+24,,,Incense Stick added to add IMPURITIES,999,159,999,1,5,6,27.6,26
+25,,,Incense Stick added to add IMPURITIES,999,142,999,1,5,6,27.7,26
+26,,,Incense Stick added to add IMPURITIES,999,130,999,1,5,6,27.9,26
+27,,,Match Stick added to add IMPURITIES,999,346,999,0.619,4.736,6,27.1,35
+28,,,Match Stick added to add IMPURITIES,999,344,999,0.606,4.612,6,27.1,35
+29,,,Match Stick added to add IMPURITIES,999,342,999,0.596,4.534,6,27.1,35
+30,,,Match Stick added to add IMPURITIES,999,343,999,0.589,4.478,6,27.1,35
+31,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,97,63,114,0.681,5,6,27.1,36
+32,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,96,62,112,0.712,5,6,27.1,39
+33,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,98,63,111,0.721,5,6,27.2,42
+34,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,95,61,109,0.757,5,6,27.4,49
+35,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,55,36,66,0.604,4.592,6,27.4,76
+36,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,51,34,63,0.623,4.77,6,27.6,77
+37,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,51,33,61,0.63,4.824,6,27.6,77
+38,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,49,33,60,0.637,4.888,6,27.7,77
+39,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,48,31,59,0.641,4.924,6,27.7,78
+40,,,Ice with Steaming Water for a change in HUMIDITY AND TEMPERATURE,48,31,58,0.643,4.934,6,27.7,78
+41,,,Candle with Steaming Water for a change in HUMIDITY AND IMPURITIES,376,234,427,0.804,5,6,                                                                      21.5                                *just came back from outside,84
+42,,,Candle with Steaming Water for a change in HUMIDITY AND IMPURITIES,381,233,438,0.819,5,6,21.9,91
+43,,,Candle with Steaming Water for a change in HUMIDITY AND IMPURITIES,208,131,231,0.674,5,6,25,96
+44,,,Incense with Steaming Water for a change in HUMIDITY AND IMPURITIES,,,,,,,,
+45,,,Incense with Steaming Water for a change in HUMIDITY AND IMPURITIES,,,,,,,,
+46,,,Incense with Steaming Water for a change in HUMIDITY AND IMPURITIES,,,,,,,,
+47,,,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,981,302,999,0.49,3.6,6,26.9,47
+48,,,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,989,303,999,0.5,3.714,6,26.9,48
+49,,,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,979,300,999,0.552,4.156,6,27.1,56
+50,,,Match with Steaming Water for a change in HUMIDITY AND IMPURITIES,973,302,999,0.554,4.174,6,27.1,57
+51,,,Candle with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,34,23,41,0.109,0.73,3,27.3,29
+52,,,Candle with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,34,21,38,0.105,0.71,3,27.3,30
+53,,,Candle with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,32,21,34,0.1,0.665,3,27.4,32
+54,,,Candle with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,30,20,35,0.099,0.659,3,27.4,33
+55,,,Incense with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,999,336,999,1,5,6,26.5,26
+56,,,Incense with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,999,341,999,1,5,6,26.4,26
+57,,,Incense with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,999,350,999,1,5,6,26.3,26
+58,,,Match with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,999,366,999,0.515,3.84,6,27,32
+59,,,Match with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,999,365,999,0.624,4.774,6,27,32
+60,,,Match with Ice Cubes for a change in TEMPERATURE AND IMPURITIES,999,356,999,0.685,5,6,27,33
